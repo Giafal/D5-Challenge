@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+h1 {
+    color:blue;
+}
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+ol {
+    padding-left: 20px;
+}
+img {
+    width:100%;
+}
+span {
+    color:blue;
+}
+.title {
+    margin: 10px;
+}
+div {
+    margin: 5px;
+}
+#special-p {
+    font-size: 1.2em;
+}
+.special-p {
+    font-size: 10em;
+}
+h1,h2 {
+    font-family: 'Lato', sans-serif;
+    color: #ea0f0f;
+}
+h1:hover {
+    color: blue;
+}
+h1 {
+    display: inline-block;
+}
+.input-field {
+    display: block;
+    width: 100%;
+}
+#footer {
+    max-width: 400px;
+    margin: 0 auto;
+}
+ol {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#226096+38,226096+38,81c0e5+100&1+38,0+100 */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(34,96,150,1) 38%, rgba(129,192,229,0) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(34,96,150,1) 38%,rgba(129,192,229,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  rgba(34,96,150,1) 38%,rgba(129,192,229,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#226096', endColorstr='#0081c0e5',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
